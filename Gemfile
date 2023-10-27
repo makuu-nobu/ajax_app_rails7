@@ -72,3 +72,6 @@ group :test do
 end
 
 gem 'pry-rails'
+group :produntion do
+  gem 'pg'
+end
